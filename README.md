@@ -10,4 +10,5 @@ We learned coding methods, how to make fun games, and about common pitfalls with
 | ---------- | ----- | --------------- |
 | SkullCrusher | Sidescrolling Action | [SkullCrusher PDF](SkullCrusher/SkullCrusher.pdf) |
 | Space Domination | Galactic Space Shooter (Waves) | [Space Domination PDF](SpaceDomination/SpaceDomination.pdf) |
+| Revised Games | Strategy/Platformers/Shooters/RPG | [Other Games PDF](RevisedGames/OtherGames.pdf) |
 
